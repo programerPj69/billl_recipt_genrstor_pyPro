@@ -52,7 +52,8 @@ This `README.md` provides a clear overview of your project, how to use it, and w
 
 
 
-
+### Output
+![logo](view.png)
 
 
 
